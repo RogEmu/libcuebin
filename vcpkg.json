@@ -1,0 +1,9 @@
+{
+    "name": "libcuebin",
+    "version": "0.1.0",
+    "description": "CUE sheet parser library for PSX emulation",
+    "dependencies": [
+        "spdlog",
+        "gtest"
+    ]
+}
