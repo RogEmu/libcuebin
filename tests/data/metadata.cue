@@ -1,0 +1,23 @@
+REM GENRE "Role Playing Game"
+REM DATE 1997
+CATALOG 0000000000000
+PERFORMER "Square"
+TITLE "Final Fantasy VII"
+FILE "metadata.bin" BINARY
+  TRACK 01 MODE2/2352
+    TITLE "Data Track"
+    PERFORMER "Square"
+    FLAGS DCP
+    ISRC JPSMK0100001
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Opening - Bombing Mission"
+    PERFORMER "Nobuo Uematsu"
+    INDEX 00 32:15:40
+    INDEX 01 32:17:40
+  TRACK 03 AUDIO
+    TITLE "Mako Reactor"
+    PERFORMER "Nobuo Uematsu"
+    PREGAP 00:02:00
+    INDEX 01 36:42:15
+    POSTGAP 00:01:00
